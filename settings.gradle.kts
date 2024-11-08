@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HelloKotlin"
+rootProject.name = "unit converter"
 include(":app")
